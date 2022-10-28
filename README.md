@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @snpoudel
-- 👀 I’m interested in Watershed modeling,sociohydrology, and application of deep learning in hydrologic science.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sandeep!
+- 👀 I’m interested in Watershed modeling, sociohydrology, and application of deep learning in hydrologic science.
+- 🌱 I’m currently a grad researcher at UConn ecohydrology lab.
+
 
 <!---
 snpoudel/snpoudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
