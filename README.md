@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sandeep!
-- 👀 I’m interested in Watershed modeling, sociohydrology, and application of deep learning in hydrologic science.
-- 🌱 I’m currently a grad researcher at UConn ecohydrology lab.
+- 👋 Hi, I’m Sandeep.
+- 👀 I’m interested in hydrological modeling, sociohydrology, and the use of ML/DL techniques.
+- 🌱 I’m currently a grad researcher in the ecohydrology lab at UConn.
 
 
 <!---
